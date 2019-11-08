@@ -7,3 +7,5 @@ def my_collect(array)
   end
   collection
 end
+
+# lab essentially is the same as the previous 
